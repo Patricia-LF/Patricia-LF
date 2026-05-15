@@ -26,7 +26,7 @@ With a background in biomedical laboratory science, I bring analytical thinking,
 | Alma Hammar Portfolio | Portfolio site for a graphic design student, built in collaboration | WordPress, PHP |
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Patricia-LF&theme=ambient-gradient&card_width=900" />
+  <img src="https://streak-stats.demolab.com?user=Patricia-LF&theme=ambient-gradient&card_width=850" />
 </p>
 
 <!--
