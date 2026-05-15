@@ -17,7 +17,7 @@ With a background in biomedical laboratory science, I bring analytical thinking,
 | Tools | [![Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,rider,figma,linux,ubuntu)](https://skillicons.dev) |
 | Currently Learning | [![Learning](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) |
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=Patricia-LF&theme=ambient-gradient" />
 </p>
 
