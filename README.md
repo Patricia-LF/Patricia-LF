@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hi,%20I'm%20Patricia%20👋%20&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hi,%20I'm%20Patricia%20👋%20&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 A fullstack web development student at Yrgo in Gothenburg, Sweden, currently seeking an internship (LIA) from Nov 2026 to May 2027.
