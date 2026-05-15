@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hi,%20I'm%20Patricia%20👋%20&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hi,%20I'm%20Patricia%20👋%20&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 A fullstack web development student at Yrgo in Gothenburg, Sweden, currently seeking an internship (LIA) from Nov 2026 to May 2027.
@@ -17,8 +17,16 @@ With a background in biomedical laboratory science, I bring analytical thinking,
 | Tools | [![Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,rider,figma,linux,ubuntu)](https://skillicons.dev) |
 | Currently Learning | [![Learning](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) |
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Patricia-LF&theme=ambient-gradient" />
+## Ongoing projects
+
+| Project | Description | Tech |
+|---|---|---|
+| Runtime Terror | A haunted house experience with interactive rooms and horror-themed challenges | Next.js, React, TypeScript, Tailwind |
+| TextTV Online | A side project for browsing Swedish TextTV in the browser | Node.js |
+| Alma Hammar Portfolio | Portfolio site for a graphic design student, built in collaboration | WordPress, PHP |
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Patricia-LF&theme=ambient-gradient&card_width=800" />
 </p>
 
 <!--
